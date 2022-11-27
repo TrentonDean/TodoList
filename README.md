@@ -1,3 +1,6 @@
+# Todo List created with React
+## Add new items, check them to complete them, or delete them entirely
+
 <hr />
 
 # Getting Started with Create React App
